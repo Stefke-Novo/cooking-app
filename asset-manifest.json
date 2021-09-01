@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cooking-app/static/css/main.84ec380d.chunk.css",
+    "main.css": "/cooking-app/static/css/main.15deffc8.chunk.css",
     "main.js": "/cooking-app/static/js/main.d8f04f77.chunk.js",
     "main.js.map": "/cooking-app/static/js/main.d8f04f77.chunk.js.map",
     "runtime-main.js": "/cooking-app/static/js/runtime-main.aab59ee7.js",
@@ -10,14 +10,14 @@
     "static/js/3.c4aa5d50.chunk.js": "/cooking-app/static/js/3.c4aa5d50.chunk.js",
     "static/js/3.c4aa5d50.chunk.js.map": "/cooking-app/static/js/3.c4aa5d50.chunk.js.map",
     "index.html": "/cooking-app/index.html",
-    "static/css/main.84ec380d.chunk.css.map": "/cooking-app/static/css/main.84ec380d.chunk.css.map",
+    "static/css/main.15deffc8.chunk.css.map": "/cooking-app/static/css/main.15deffc8.chunk.css.map",
     "static/js/2.aa8e5ab7.chunk.js.LICENSE.txt": "/cooking-app/static/js/2.aa8e5ab7.chunk.js.LICENSE.txt",
     "static/media/MainPage.css": "/cooking-app/static/media/pablo-merchan-montes-Orz90t6o0e4-unsplash.7d465153.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.aab59ee7.js",
     "static/js/2.aa8e5ab7.chunk.js",
-    "static/css/main.84ec380d.chunk.css",
+    "static/css/main.15deffc8.chunk.css",
     "static/js/main.d8f04f77.chunk.js"
   ]
 }
