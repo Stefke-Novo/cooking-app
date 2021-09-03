@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/cooking-app/static/css/main.ee79bcb5.chunk.css",
-    "main.js": "/cooking-app/static/js/main.33e10206.chunk.js",
-    "main.js.map": "/cooking-app/static/js/main.33e10206.chunk.js.map",
-    "runtime-main.js": "/cooking-app/static/js/runtime-main.aab59ee7.js",
-    "runtime-main.js.map": "/cooking-app/static/js/runtime-main.aab59ee7.js.map",
-    "static/js/2.aa8e5ab7.chunk.js": "/cooking-app/static/js/2.aa8e5ab7.chunk.js",
-    "static/js/2.aa8e5ab7.chunk.js.map": "/cooking-app/static/js/2.aa8e5ab7.chunk.js.map",
-    "static/js/3.c4aa5d50.chunk.js": "/cooking-app/static/js/3.c4aa5d50.chunk.js",
-    "static/js/3.c4aa5d50.chunk.js.map": "/cooking-app/static/js/3.c4aa5d50.chunk.js.map",
+    "main.css": "/cooking-app/static/css/main.66ee9d36.chunk.css",
+    "main.js": "/cooking-app/static/js/main.02e0c89b.chunk.js",
+    "main.js.map": "/cooking-app/static/js/main.02e0c89b.chunk.js.map",
+    "runtime-main.js": "/cooking-app/static/js/runtime-main.3142af38.js",
+    "runtime-main.js.map": "/cooking-app/static/js/runtime-main.3142af38.js.map",
+    "static/js/2.0dd7da0c.chunk.js": "/cooking-app/static/js/2.0dd7da0c.chunk.js",
+    "static/js/2.0dd7da0c.chunk.js.map": "/cooking-app/static/js/2.0dd7da0c.chunk.js.map",
+    "static/js/3.c447ab94.chunk.js": "/cooking-app/static/js/3.c447ab94.chunk.js",
+    "static/js/3.c447ab94.chunk.js.map": "/cooking-app/static/js/3.c447ab94.chunk.js.map",
     "index.html": "/cooking-app/index.html",
-    "static/css/main.ee79bcb5.chunk.css.map": "/cooking-app/static/css/main.ee79bcb5.chunk.css.map",
-    "static/js/2.aa8e5ab7.chunk.js.LICENSE.txt": "/cooking-app/static/js/2.aa8e5ab7.chunk.js.LICENSE.txt",
+    "static/css/main.66ee9d36.chunk.css.map": "/cooking-app/static/css/main.66ee9d36.chunk.css.map",
+    "static/js/2.0dd7da0c.chunk.js.LICENSE.txt": "/cooking-app/static/js/2.0dd7da0c.chunk.js.LICENSE.txt",
     "static/media/pablo-merchan-montes-Orz90t6o0e4-unsplash.7d465153.jpg": "/cooking-app/static/media/pablo-merchan-montes-Orz90t6o0e4-unsplash.7d465153.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.aab59ee7.js",
-    "static/js/2.aa8e5ab7.chunk.js",
-    "static/css/main.ee79bcb5.chunk.css",
-    "static/js/main.33e10206.chunk.js"
+    "static/js/runtime-main.3142af38.js",
+    "static/js/2.0dd7da0c.chunk.js",
+    "static/css/main.66ee9d36.chunk.css",
+    "static/js/main.02e0c89b.chunk.js"
   ]
 }
